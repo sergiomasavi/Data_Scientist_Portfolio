@@ -1,0 +1,1 @@
+- Jupyter Notebooks as PDF => https://github.com/betatim/notebook-as-pdf
